@@ -16,15 +16,15 @@ Notes on ARCHUB are there to provide the mission maker with feedback and any cla
 ___
 
 ### General
-- [ ] TMF Autotest must be examined before exporting the mission
-    - [ ] Any warnings must be acknowledged
-    - [ ] Any errors must be resolved
-- [ ] Add an admin briefing to assist with testing and potentialfor future replayability, containing mission/zeus intent and/or hidden tasks/equipment.
+- TMF Autotest must be examined before exporting the mission
+    - Any warnings must be acknowledged
+    - Any errors must be resolved
+- Add an admin briefing to assist with testing and potentialfor future replayability, containing mission/zeus intent and/or hidden tasks/equipment.
     - You can also use editor comments or archub notes. If you leave a mission undocumented it may be returned straight away by a tester.
-- [ ] If using known elements make sure to rename BLUFOR/OPFOR/INDFOR to appropriate force names for example NATO/RUS/VDV, if using unknown elements then clear the BLUFOR/OPFOR/INDFOR designations
-- [ ] Save file naming convention is as follows: ARC_coop/tvt/ade_nameofmission_yourname. Where coop/tvt/ade is relevant to mission type, and nameofmission needs to match the name of your operation for loading clarity.
-- [ ] If a mission has been created using mods from the mission making modset, List the ones used in notes for mission testers to be aware of.
-- [ ] If the mission includes special slotting orders or instructions, it must be noted in the MP Mission Summary. Examples:
+- If using known elements make sure to rename BLUFOR/OPFOR/INDFOR to appropriate force names for example NATO/RUS/VDV, if using unknown elements then clear the BLUFOR/OPFOR/INDFOR designations
+- Save file naming convention is as follows: ARC_coop/tvt/ade_nameofmission_yourname. Where coop/tvt/ade is relevant to mission type, and nameofmission needs to match the name of your operation for loading clarity.
+- If a mission has been created using mods from the mission making modset, List the ones used in notes for mission testers to be aware of.
+- If the mission includes special slotting orders or instructions, it must be noted in the MP Mission Summary. Examples:
   - DESCRIPTION HERE | Slotting: CO, Alpha SL/1/2, MAT1, Bravo SL/1/2, MAT2, etc
   - DESCRIPTION HERE | Standard slotting, MAT required, overflow to MMG
   - DESCRIPTION HERE | Standard slotting | OPF 2:1 BLU
